@@ -50,7 +50,7 @@ In order to ensure an optimal security, you shall regularly install any Applicat
 We also advise you to regularly check for any Android OS update(s) that could be available and to enable automatic updates.
 Changes
 
-This Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy at https://beyourownguide.github.io/privacy_notice.md and update the "Last updated" date at the top of this Privacy Policy.
+This Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy at https://beyourownguide.github.io/privacy_notice and update the "Last updated" date at the top of this Privacy Policy.
 
 Please be aware that, although we endeavor provide reasonable security for information we process and maintain, no security system can prevent all potential security breaches (e.g., a zero-day attack targeting mobile Operating System – OS).
 
